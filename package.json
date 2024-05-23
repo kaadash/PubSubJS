@@ -1,6 +1,6 @@
 {
   "name": "pubsub-js-ssr",
-  "version": "1.10.4",
+  "version": "1.10.5",
   "description": "Dependency free publish/subscribe library. Fork from pubsub-js but supporting ssr.",
   "main": "./src/pubsub.js",
   "directories": {
