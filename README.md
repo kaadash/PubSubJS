@@ -11,6 +11,10 @@
   </p>
 </div>
 
+### It is fork from (https://github.com/mroderick/PubSubJS)
+
+This npm package will be removed after merging this PR: https://github.com/mroderick/PubSubJS/pull/230
+
 PubSubJS is a [topic-based](http://en.wikipedia.org/wiki/Publish–subscribe_pattern#Message_filtering) [publish/subscribe](http://en.wikipedia.org/wiki/Publish/subscribe) library written in JavaScript.
 
 PubSubJS has synchronisation decoupling, so topics are published asynchronously. This helps keep your program predictable as the originator of topics will not be blocked while consumers process them.

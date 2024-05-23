@@ -1,7 +1,7 @@
 {
-  "name": "pubsub-js",
-  "version": "1.9.4",
-  "description": "Dependency free publish/subscribe library",
+  "name": "pubsub-js-ssr",
+  "version": "1.10.4",
+  "description": "Dependency free publish/subscribe library. Fork from pubsub-js but supporting ssr.",
   "main": "./src/pubsub.js",
   "directories": {
     "lib": "src",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mroderick/PubSubJS.git"
+    "url": "git://github.com/kaadash/PubSubJS.git"
   },
   "keywords": [
     "pub/sub",
